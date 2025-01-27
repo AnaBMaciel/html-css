@@ -87,3 +87,14 @@ p.imagem{
     color: white;
     text-shadow: 1px 1px 0px black;
 }
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+footer > p{
+    margin: 0px;
+    padding: 8px;
+}
